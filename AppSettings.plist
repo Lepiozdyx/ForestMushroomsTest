@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FBRDUrl</key>
+	<string>mans</string>
+	<key>FBRDEndpoint</key>
+	<string>point</string>
+	<key>BackendURL</key>
+	<string>mans</string>
+	<key>BackendEndpoint</key>
+	<string>point</string>
+	<key>HardcodedUrl</key>
+	<string></string>
+</dict>
+</plist>
