@@ -10,10 +10,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     static let AFDevKey = "P8Cmc5f5JjkNjQ3haoGbWS"
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-    #if DEBUG
-        onDeclined()
-        return true
-    #endif
+
         
         if AppSettingsManager.HardcodedUrl != "" {
             onDecided(url: AppSettingsManager.HardcodedUrl)
