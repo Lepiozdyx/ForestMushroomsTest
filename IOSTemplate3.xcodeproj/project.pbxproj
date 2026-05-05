@@ -16,16 +16,6 @@
 		CEB7B8E72F2751190094E4B4 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEB7B8E62F2751190094E4B4 /* UserNotifications.framework */; };
 		CEB7B9242F275B590094E4B4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CEB7B9232F275B590094E4B4 /* GoogleService-Info.plist */; };
 		CEB7B9E52F276C400094E4B4 /* AppsFlyerLib-Static in Frameworks */ = {isa = PBXBuildFile; productRef = CEB7B9E42F276C400094E4B4 /* AppsFlyerLib-Static */; };
-		FA41B14C2FAA43CA00381BA9 /* button.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA41B1422FAA43CA00381BA9 /* button.mp3 */; };
-		FA41B14D2FAA43CA00381BA9 /* FredokaOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA41B13F2FAA43CA00381BA9 /* FredokaOne-Regular.ttf */; };
-		FA41B14E2FAA43CA00381BA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA41B1412FAA43CA00381BA9 /* Assets.xcassets */; };
-		FA41B14F2FAA43CA00381BA9 /* MainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41B1492FAA43CA00381BA9 /* MainScreen.swift */; };
-		FA41B1502FAA43CA00381BA9 /* GameLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41B1462FAA43CA00381BA9 /* GameLogic.swift */; };
-		FA41B1512FAA43CA00381BA9 /* AchievementsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41B1442FAA43CA00381BA9 /* AchievementsScreen.swift */; };
-		FA41B1522FAA43CA00381BA9 /* IdentificationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41B1482FAA43CA00381BA9 /* IdentificationScreen.swift */; };
-		FA41B1532FAA43CA00381BA9 /* AppFeedback.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41B1452FAA43CA00381BA9 /* AppFeedback.swift */; };
-		FA41B1542FAA43CA00381BA9 /* StatisticsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41B14A2FAA43CA00381BA9 /* StatisticsScreen.swift */; };
-		FA41B1552FAA43CA00381BA9 /* HerbariumScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA41B1472FAA43CA00381BA9 /* HerbariumScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,16 +23,6 @@
 		CE87285E2ED5D40800D557F3 /* IOSTemplate3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSTemplate3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB7B8E62F2751190094E4B4 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
 		CEB7B9232F275B590094E4B4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		FA41B13F2FAA43CA00381BA9 /* FredokaOne-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FredokaOne-Regular.ttf"; sourceTree = "<group>"; };
-		FA41B1412FAA43CA00381BA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FA41B1422FAA43CA00381BA9 /* button.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = button.mp3; sourceTree = "<group>"; };
-		FA41B1442FAA43CA00381BA9 /* AchievementsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AchievementsScreen.swift; sourceTree = "<group>"; };
-		FA41B1452FAA43CA00381BA9 /* AppFeedback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppFeedback.swift; sourceTree = "<group>"; };
-		FA41B1462FAA43CA00381BA9 /* GameLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameLogic.swift; sourceTree = "<group>"; };
-		FA41B1472FAA43CA00381BA9 /* HerbariumScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HerbariumScreen.swift; sourceTree = "<group>"; };
-		FA41B1482FAA43CA00381BA9 /* IdentificationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentificationScreen.swift; sourceTree = "<group>"; };
-		FA41B1492FAA43CA00381BA9 /* MainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
-		FA41B14A2FAA43CA00381BA9 /* StatisticsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -95,7 +75,6 @@
 		CE8728552ED5D40700D557F3 = {
 			isa = PBXGroup;
 			children = (
-				FA41B14B2FAA43CA00381BA9 /* ForestMushroomsTest */,
 				CE4006C52ED9C0940054D39F /* AppSettings.plist */,
 				CE8728602ED5D40800D557F3 /* IOSTemplate3 */,
 				CE87285F2ED5D40800D557F3 /* Products */,
@@ -110,39 +89,6 @@
 				CE87285E2ED5D40800D557F3 /* IOSTemplate3.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		FA41B1402FAA43CA00381BA9 /* Fredoka One */ = {
-			isa = PBXGroup;
-			children = (
-				FA41B13F2FAA43CA00381BA9 /* FredokaOne-Regular.ttf */,
-			);
-			path = "Fredoka One";
-			sourceTree = "<group>";
-		};
-		FA41B1432FAA43CA00381BA9 /* Shared */ = {
-			isa = PBXGroup;
-			children = (
-				FA41B1402FAA43CA00381BA9 /* Fredoka One */,
-				FA41B1412FAA43CA00381BA9 /* Assets.xcassets */,
-				FA41B1422FAA43CA00381BA9 /* button.mp3 */,
-			);
-			path = Shared;
-			sourceTree = "<group>";
-		};
-		FA41B14B2FAA43CA00381BA9 /* ForestMushroomsTest */ = {
-			isa = PBXGroup;
-			children = (
-				FA41B1432FAA43CA00381BA9 /* Shared */,
-				FA41B1442FAA43CA00381BA9 /* AchievementsScreen.swift */,
-				FA41B1452FAA43CA00381BA9 /* AppFeedback.swift */,
-				FA41B1462FAA43CA00381BA9 /* GameLogic.swift */,
-				FA41B1472FAA43CA00381BA9 /* HerbariumScreen.swift */,
-				FA41B1482FAA43CA00381BA9 /* IdentificationScreen.swift */,
-				FA41B1492FAA43CA00381BA9 /* MainScreen.swift */,
-				FA41B14A2FAA43CA00381BA9 /* StatisticsScreen.swift */,
-			);
-			path = ForestMushroomsTest;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -220,9 +166,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEB7B9242F275B590094E4B4 /* GoogleService-Info.plist in Resources */,
-				FA41B14C2FAA43CA00381BA9 /* button.mp3 in Resources */,
-				FA41B14D2FAA43CA00381BA9 /* FredokaOne-Regular.ttf in Resources */,
-				FA41B14E2FAA43CA00381BA9 /* Assets.xcassets in Resources */,
 				CE4006C62ED9C0940054D39F /* AppSettings.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -234,13 +177,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA41B14F2FAA43CA00381BA9 /* MainScreen.swift in Sources */,
-				FA41B1502FAA43CA00381BA9 /* GameLogic.swift in Sources */,
-				FA41B1512FAA43CA00381BA9 /* AchievementsScreen.swift in Sources */,
-				FA41B1522FAA43CA00381BA9 /* IdentificationScreen.swift in Sources */,
-				FA41B1532FAA43CA00381BA9 /* AppFeedback.swift in Sources */,
-				FA41B1542FAA43CA00381BA9 /* StatisticsScreen.swift in Sources */,
-				FA41B1552FAA43CA00381BA9 /* HerbariumScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
