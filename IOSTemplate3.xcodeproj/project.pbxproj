@@ -314,7 +314,7 @@
 				DEVELOPMENT_TEAM = TZCUKDMG3L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IOSTemplate3/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Forest Mashrooms test";
+				INFOPLIST_KEY_CFBundleDisplayName = "Forest Mushrooms test";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Allow access to the camera to take photos.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Allow microphone access to record audio.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Allow access to the photo library to save photos.";
@@ -329,7 +329,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.forestmash.room;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -359,7 +359,7 @@
 				DEVELOPMENT_TEAM = TZCUKDMG3L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IOSTemplate3/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Forest Mashrooms test";
+				INFOPLIST_KEY_CFBundleDisplayName = "Forest Mushrooms test";
 				INFOPLIST_KEY_NSCameraUsageDescription = "Allow access to the camera to take photos.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Allow microphone access to record audio.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Allow access to the photo library to save photos.";
@@ -374,7 +374,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.forestmash.room;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
